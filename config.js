@@ -12,24 +12,24 @@ global.APIKeys = {
 }
 global.lolhuman = 'APOLOZEA'
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = '𝙰𝙳𝚁𝙸𝙰𝙽-𝙼𝙳'
-global.namaowner = '𝙰𝙳𝚁𝙸𝙰𝙽'
+global.namabot = 'hann-𝙼𝙳'
+global.namaowner = 'ownlolod'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6289513081052']
-global.ownernomer = "6289513081052"
-global.premium = ['6289513081052']
-global.ultah = 'Maret 24, 2024'
+global.owner = ['6283898839679']
+global.ownernomer = "6283898839679"
+global.premium = ['6283898839679']
+global.ultah = 'November 06, 2023'
 
 //—————「 Setting Donasi 」—————//
-global.dana = '089513081052'
+global.dana = '083898839679'
 
 //—————「 Set Kebutuhan Button 」—————//
-global.email = 'azzygota24@gmail.com'
+global.email = 'rehanprib22@gmail.com'
 global.namaweb = 'TikTok'
-global.myweb = 'https://tiktok.com/@dryan.am'
+global.myweb = 'https://tiktok.com/@rehand3_brebes'
 global.region = 'Indonesia'
-global.github = 'https://github.com/AdrianTzy'
+global.github = 'https://github.com/Nopalpriset1211'
 global.mygc = 'https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10'
 global.myig = 'https://instagram.com/dryan.pu'
 
